@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2020-12-25-launch-ds20/",
+    "title": "Launch DS20",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Ning Lu",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-25",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-25T13:41:27+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Demo Distill",
+    "description": "Welcome to our new blog, Demo Distill. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-25",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-25T13:35:23+00:00",
+    "input_file": {}
+  }
+]
